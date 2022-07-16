@@ -1,0 +1,20 @@
+{
+  "name": "floristman",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "swiper": "^8.3.0",
+    "vue": "^3.2.25",
+    "vue-slider-component": "^3.2.17",
+    "vue3-carousel": "^0.1.40"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.3.3",
+    "vite": "^2.9.9"
+  }
+}
